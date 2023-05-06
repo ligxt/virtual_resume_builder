@@ -1,0 +1,61 @@
+[
+  {
+    "type": "select",
+    "name": "select-box",
+    "label": "Add",
+    "hidden": true,
+    "option": [{
+      "label": "Box 1",
+      "value": "One"
+    }, {
+      "label": "Box 2",
+      "value": "Two"
+    }]
+  }, {
+    "type": "select",
+    "name": "layout",
+    "label": "Please select layout",
+    "option": [{
+      "label": "Horizontal (default)",
+      "value": "horizontal"
+    }, {
+      "label": "vertical Arrangement",
+      "value": "vertical"
+    }]
+  }, {
+    "type": "group",
+    "name": "data",
+    "label": "Please enter basic information",
+    "option": [{
+      "value": "name",
+      "label": "Name",
+      "placeHolder": "Name"
+    }, {
+      "value": "intension",
+      "label": "Job Intention",
+      "placeHolder": "Job Intension"
+    }, {
+      "value": "phone",
+      "label": "Phone",
+      "placeHolder": "Cellphone"
+    }, {
+      "value": "email",
+      "label": "Email",
+      "placeHolder": "Email"
+    }, {
+      "type": "select",
+      "value": "photo",
+      "label": "Photo Style",
+      "option": [{
+        "label": "Default",
+        "value": "default"
+      }, {
+        "label": "Rounded corners",
+        "value": "rounded"
+      }, {
+        "label": "Oval",
+        "value": "oval"
+      }]
+    }]
+  }
+]

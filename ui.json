@@ -1,0 +1,165 @@
+{
+  "project": {
+    "header": "Project Experience",
+    "select-box": "One",
+    "sort": 4,
+    "nums": "2",
+    "project-group-1": {
+      "start": "2022",
+      "end": "2022-05",
+      "title": "Lenovo Mobile UI Theme Design Contest",
+      "key": "Team Members",
+      "details": [
+        "Designed a XX product, used XX technology and XX software",
+        "Mainly responsible for the product in the team, the part of the design work",
+        "Owned XX prizes in the Grand Competition"
+      ]
+    }, 
+    "project-group-2": {
+      "start": "2015-02",
+      "end": "2018-07",
+      "title": "Mumbai University Student Union Outreach Department",
+      "key": "Second Manager",
+      "details": [
+        "Planning, hosting multiple venues, communicating with enterprises",
+        "Contact enterprises，Organization students and students"
+      ]
+    }
+  },
+  "info": {
+    "header": "Personal information",
+    "select-box": "One",
+    "sort": 0,
+    "layout": "vertical",
+    "data": {
+      "email": "nilesh@gmail.com",
+      "intension": "UI design",
+      "name": "Nilesh",
+      "phone": "9999999999",
+      "photo": "default"
+    }
+  },
+  "edu": {
+    "header": "Educational Information",
+    "select-box": "One",
+    "sort": 1,
+    "nums": "2",
+    "type": "brief",
+    "edu-group-1": {
+      "university": "Mumbai University",
+      "major": "MCA",
+      "degree": "Master's",
+      "gpa": "",
+      "start": "2023",
+      "end": "Pursuing",
+      "details": []
+    },
+    "edu-group-2": {
+      "university": "Mumbai University",
+      "major": "BSc. IT",
+      "degree": "undergraduate",
+      "gpa": "",
+      "start": "2017",
+      "end": "2020",
+      "details": []
+    }
+  },
+  "job": {
+    "header": "Exercise Experience",
+    "select-box": "One",
+    "sort": 3,
+    "nums": "1",
+    "job-group-1": {
+      "start": "2020-06",
+      "end": "2021-07",
+      "title": "Advertising Design",
+      "key": "UI design assistant",
+      "details": [
+        "Responsible for the UI design of the website (including the overall layout, related graphics creation, related text descriptions)",
+        "Responsible for the overall style design of the mobile phone client product GUI, application tool related menu and interface design",
+        "Responsible design of product interfaces and icons, including UI information"
+      ]
+    }
+  },
+  "new1": {
+    "header": "Professional Skills",
+    "select-box": "One",
+    "select-component": "line-down",
+    "sort": 2,
+    "nums": "3",
+    "new1-group-1": {
+      "start": "",
+      "end": "",
+      "title": "Photoshop, Illustrator, Coreldraw, Flash",
+      "key": "",
+      "progress": "85",
+      "details": []
+    },
+    "new1-group-2": {
+      "start": "2022",
+      "end": "",
+      "title": "Html, Css & Javascript",
+      "key": "",
+      "progress": "70",
+      "details": []
+    },
+    "new1-group-3": {
+      "start": "",
+      "end": "",
+      "title": "Word, PPT, Excel",
+      "key": "",
+      "progress": "60",
+      "details": []
+    }
+  },
+  "new2": {
+    "header": "Personal Creations",
+    "select-box": "One",
+    "select-component": "text",
+    "sort": 5,
+    "nums": "1",
+    "new2-group-1": {
+      "start": "",
+      "end": "",
+      "title": "",
+      "key": "",
+      "details": [
+        "A mobile phone APP (2022-05) for enterprise collaboration and intelligent management",
+        "A mobile shopping app that helps users choose household items (2022-09)",
+        "An Android phone theme with coffee as its content (2022-12)",
+        "Android mobile phone theme with cute cat as the content (2023-02)"
+      ]
+    }
+  },
+  "new3": {
+    "header": "Hobby",
+    "select-box": "One",
+    "select-component": "text",
+    "sort": 6,
+    "nums": "1",
+    "new3-group-1": {
+      "start": "",
+      "end": "",
+      "title": "",
+      "key": "",
+      "details": [
+        "Customize Android ROM & Watching Movies",
+        "Tech-savvy entertainment enthusiast who enjoys customizing Android ROMs and binge-watching movies."
+      ]
+    }
+  },
+  "basic": {
+    "general": {
+      "top-bottom": "45",
+      "left-right": "30",
+      "font-size": "14",
+      "layout": "0",
+      "symbol": "re-correct"
+    },
+    "title": {
+      "color": "orange",
+      "fr-color": "#000000",
+      "style": "bottom"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+[
+  {
+    "type": "group",
+    "name": "general",
+    "label": "Basic Configuration",
+    "id": "basic-general",
+    "option": [{
+      "type": "number",
+      "value": "top-bottom",
+      "label": "Top and bottom margins (px)",
+      "default": "30",
+      "min": "0",
+      "placeHolder": "Top and bottom margins (px)"
+    }, {
+      "type": "number",
+      "value": "left-right",
+      "label": "Left and right margins (px)",
+      "default": "30",
+      "min": "0",
+      "placeHolder": "Left and right margins (px)"
+    }, {
+      "type": "number",
+      "value": "font-size",
+      "label": "Font size (px)",
+      "default": "14",
+      "min": "12",
+      "max": "20",
+      "placeHolder": "Body content font"
+    }, {
+      "type": "select",
+      "value": "layout",
+      "label": "Page Layout",
+      "option": [{
+        "label": "Default single column",
+        "value": "0"
+      }, {
+        "label": "left and right 1-2",
+        "value": "1-2"
+      }, {
+        "label": "left and right 2-1",
+        "value": "2-1"
+      }]
+    }, {
+      "type": "select",
+      "value": "symbol",
+      "label": "point symbol",
+      "option": [{
+        "label": "Filled circle (default)",
+        "value": "dist"
+      }, {
+        "label": "number",
+        "value": "decimal"
+      }, {
+        "label": "Star",
+        "value": "re-star"
+      }, {
+        "label": "Heart",
+        "value": "re-heart"
+      }, {
+        "label": "tick",
+        "value": "re-correct"
+      }]
+    }]
+  }, {
+    "type": "group",
+    "name": "title",
+    "label": "Title Bar Configuration",
+    "id": "basic-title",
+    "option": [{
+      "value": "color",
+      "label": "Background Tint",
+      "default": "#c0edef",
+      "placeHolder": "Please enter a color value"
+    }, {
+      "value": "fr-color",
+      "label": "Foreground Tint",
+      "default": "#000000",
+      "placeHolder": "Please enter a color value"
+    }, {
+      "type": "select",
+      "value": "style",
+      "label": "style",
+      "option": [{
+        "label": "Standard",
+        "value": "standard"
+      }, {
+        "label": "Line",
+        "value": "outline"
+      }, {
+        "label": "Underline",
+        "value": "bottom"
+      }, {
+        "label": "Do not display",
+        "value": "none"
+      }]
+    }]
+  }
+]

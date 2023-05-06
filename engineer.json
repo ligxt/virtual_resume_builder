@@ -1,0 +1,133 @@
+{
+  "project": {
+    "header": "Project Experience",
+    "select-box": "One",
+    "sort": 3,
+    "nums": "3",
+    "project-group-1": {
+      "start": "2021-04",
+      "end": "2022-01",
+      "title": "College Students Mathematical Contest in Modeling Project Team",
+      "key": "programmer",
+      "details": [
+        "Responsible for algorithm design and programming, mainly exploring graph theory algorithm, ant colony algorithm, etc.",
+        "In one month, I taught myself the operation of Matlab, LaTeX, Gephi and other software.",
+        "The team won the first prize in the Guangdong competition area and the second prize in the country."
+      ]
+    }, 
+    "project-group-2": {
+      "start": "2022-02",
+      "end": "2022-09",
+      "title": "Responsive website front-end team",
+      "key": "Project Team Member",
+      "details": [
+        "Project is a multi-theme site.",
+        "Using Bootstrap for responsive layout makes the website compatible with multiple devices.",
+        "The project gave me a better understanding of front-end technology implementation, and also improved my programming skills."
+      ]
+    }, 
+    "project-group-3": {
+      "start": "2022-10",
+      "end": "2023-03",
+      "title": "CRM Management System",
+      "key": "Project Team Member",
+      "details": [
+        "Responsible for writing detailed requirements analysis and customer management modules.",
+        "Achieve several major functions such as customer addition, customer modification, customer deletion, batch deletion of customers, and pagination.",
+        "Using Myeclipse development tools, orcal database, ssh, javascript, jquery and other development technologies, several major functions are running stably, and the operation speed is significantly faster."
+      ]
+    }
+  },
+  "info": {
+    "header": "Personal Information",
+    "select-box": "One",
+    "sort": 0,
+    "layout": "horizontal",
+    "data": {
+      "email": "rupesh@gmail.com",
+      "intension": "Web front-end engineer",
+      "name": "Rupesh",
+      "phone": "9999999999",
+      "photo": "default"
+    }
+  },
+  "edu": {
+    "header": "Education Information",
+    "select-box": "One",
+    "sort": 1,
+    "nums": "1",
+    "type": "standard",
+    "edu-group-1": {
+      "university": "Mumbai University",
+      "major": "BSc. IT",
+      "degree": "Undergraduate",
+      "gpa": "8.3",
+      "start": "2017",
+      "end": "2020",
+      "details": []
+    }
+  },
+  "job": {
+    "header": "Work Experience",
+    "select-box": "One",
+    "sort": 2,
+    "nums": "1",
+    "job-group-1": {
+      "start": "2022-04",
+      "end": "2023-04",
+      "title": "Website Development Company",
+      "key": "Web front-end intern",
+      "details": [
+        "Front-end coding of HTML, CSS and JavaScript.",
+        "Assist in the programming of Bootstrap's responsive layout, and understand the compatibility of different browsers.",
+        "Participated in multiple projects of the company during the internship, and accumulated a certain amount of team work experience."
+      ]
+    }
+  },
+  "new1": {
+    "header": "Awards",
+    "select-box": "One",
+    "select-component": "text",
+    "sort": 4,
+    "nums": "4",
+    "new1-group-1": {
+      "start": "2020-07",
+      "end": "",
+      "title": "2020-2021 National Scholarship",
+      "key": "",
+      "details": []
+    },
+    "new1-group-2": {
+      "start": "2014",
+      "end": "",
+      "title": "2014-2015 school year second-class scholarship for excellent students",
+      "key": "",
+      "details": []
+    },
+    "new1-group-3": {
+      "start": "2021",
+      "end": "",
+      "title": "Second Prize in ACM Programming Contest",
+      "key": "",
+      "details": []
+    },
+    "new1-group-4": {
+      "start": "2022",
+      "end": "",
+      "title": "Third Prize in Mumbai University Student Software Development Contest",
+      "key": "",
+      "details": []
+    }
+  },
+  "basic": {
+    "color": "#fbcab5",
+    "fr-color": "#000000",
+    "general": {
+      "top-bottom": "35",
+      "left-right": "30",
+      "font-size": "14",
+      "layout": "0",
+      "symbol": "dist"
+    }
+  }
+}

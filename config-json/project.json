@@ -1,0 +1,46 @@
+[
+  {
+    "type": "select",
+    "name": "select-box",
+    "label": "Add to",
+    "hidden": true,
+    "option": [{
+      "label": "Box 1",
+      "value": "One"
+    }, {
+      "label": "Box 2",
+      "value": "Two"
+    }]
+  }, {
+    "name": "header",
+    "label": "Custom Title",
+    "placeHolder": "Header"
+  }, {
+    "type": "group",
+    "name": "project-group",
+    "label": "Experience Details",
+    "canAdd": true,
+    "option": [{
+      "value": "start",
+      "label": "Starting Year and Month",
+      "placeHolder": "XXXX.XX"
+    }, {
+      "value": "end",
+      "label": "End year and month",
+      "placeHolder": "XXXX.XX"
+    }, {
+      "value": "title",
+      "label": "Theme",
+      "placeHolder": "Main"
+    }, {
+      "value": "key",
+      "label": "Subtitle",
+      "placeHolder": "Sub"
+    }, {
+      "type": "textarea",
+      "value": "details",
+      "label": "Description",
+      "placeHolder": "Details (if you need to divide points, please press the Enter key to distinguish)"
+    }]
+  }
+]

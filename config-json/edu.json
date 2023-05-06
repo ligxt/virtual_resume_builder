@@ -1,0 +1,66 @@
+[
+  {
+    "type": "select",
+    "name": "select-box",
+    "label": "Add to",
+    "hidden": true,
+    "option": [{
+      "label": "Box 1",
+      "value": "One"
+    }, {
+      "label": "Box 2",
+      "value": "Two"
+    }]
+  }, {
+    "name": "header",
+    "label": "Custom Title",
+    "placeHolder": "Header"
+  }, {
+    "type": "select",
+    "name": "type",
+    "label": "Please select a style",
+    "id": "select-edu-type",
+    "option": [{
+      "label": "Standard",
+      "value": "standard"
+    }, {
+      "label": "Simple",
+      "value": "brief"
+    }]
+  }, {
+    "type": "group",
+    "name": "edu-group",
+    "label": "Education details",
+    "canAdd": true,
+    "option": [{
+      "value": "university",
+      "label": "School",
+      "placeHolder": "University"
+    }, {
+      "value": "major",
+      "label": "Professional",
+      "placeHolder": "Major"
+    }, {
+      "value": "degree",
+      "label": "degree",
+      "placeHolder": "Degree"
+    }, {
+      "value": "gpa",
+      "label": "GPA",
+      "placeHolder": "GPA (not displayed in simple style)"
+    }, {
+      "value": "start",
+      "label": "Start Year",
+      "placeHolder": "Year Start"
+    }, {
+      "value": "end",
+      "label": "End Year",
+      "placeHolder": "Year End"
+    }, {
+      "type": "textarea",
+      "value": "details",
+      "label": "Other description",
+      "placeHolder": "Details (if you need to divide points, please press the Enter key to distinguish)"
+    }]
+  }
+]
